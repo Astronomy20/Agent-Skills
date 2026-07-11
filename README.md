@@ -5,9 +5,8 @@ Agent skills, written once, reused anywhere.
 ## Structure
 
 ```
-skills/
-  <skill-name>/
-    SKILL.md
+<skill-name>/
+  SKILL.md
 ```
 
 Each `SKILL.md` is self-contained and can be used on its own.
