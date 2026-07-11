@@ -1,6 +1,6 @@
 # Agent Skills
 
-Agent skills, written once, reused anywhere.
+A collection of reusable AI agent skills.
 
 ## Structure
 
