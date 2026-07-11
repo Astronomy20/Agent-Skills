@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Minecraft",
+      "description": "Update and port Minecraft mods across versions and modloaders.",
+      "skills": ["update-mod"]
+    }
+  ]
+}
