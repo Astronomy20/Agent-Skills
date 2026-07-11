@@ -11,13 +11,15 @@ Agent skills, written once, reused anywhere.
 
 Each `SKILL.md` is self-contained and can be used on its own.
 
-## Usage
+## Install
 
-Copy a skill folder into your agent's skills directory (e.g. `~/.claude/skills/`), or:
+Via [skills.sh](https://skills.sh):
 
 ```
 npx skills add Astronomy20/Agent-Skills
 ```
+
+Or manually: copy a skill folder into your agent's skills directory (e.g. `~/.claude/skills/`).
 
 ## License
 
