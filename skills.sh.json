@@ -3,7 +3,7 @@
   "notGrouped": "bottom",
   "groupings": [
     {
-      "title": "Minecraft",
+      "title": "Minecraft Mod Update",
       "description": "Update and port Minecraft mods across versions and modloaders.",
       "skills": ["update-mod"]
     }
